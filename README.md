@@ -1,5 +1,4 @@
-# Code to reproduce the results in Sections 4, 5 and 6 of `An order restricted non-inferiority clinical trial design in
-# tuberculosis`
+# Code to reproduce the results in Sections 4, 5 and 6 of `An order restricted non-inferiority clinical trial design in tuberculosis`
 
 The repository contains the following R scripts:
 
