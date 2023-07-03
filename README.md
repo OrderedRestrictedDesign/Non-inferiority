@@ -1,4 +1,4 @@
-# Code to reproduce the results in Sections 4, 5 and 6 of `Determining the minimum duration of treatment in tuberculosis: A order restricted non-inferiority trial design`
+# Code to reproduce the results in Sections 4, 5 and 6 of `Determining the minimum duration of treatment in tuberculosis: an order restricted non-inferiority trial design`
 
 The repository contains the following R scripts:
 
